@@ -4,8 +4,8 @@
    table of contents
 
 
-Basics
-==========
+Welcome to the official instruction set for the MET short exercise 
+==================================================================
 
 .. toctree::
    :maxdepth: 2
